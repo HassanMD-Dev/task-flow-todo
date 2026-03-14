@@ -2,7 +2,7 @@
 
 **Task Flow** ek simple lekin powerful Task Management application hai jo Vanilla JavaScript ke zariye banayi gayi hai. Is project ka maqsad **DOM Manipulation** aur **Browser LocalStorage** ke concepts ko master karna tha.
 
-![Task Flow Preview](https://via.placeholder.com/800x400?text=Task+Flow+App+Preview) ## ✨ Features
+![Task Flow Preview](https://hassanmd-dev.github.io/task-flow-todo/) ## ✨ Features
 
 - **Persistent Data:** Browser refresh karne par bhi aapka data gayab nahi hota (LocalStorage integration).
 - **Real-time Counter:** Aap dekh sakte hain ke kitne tasks pending hain aur kitne complete ho chuke hain.
