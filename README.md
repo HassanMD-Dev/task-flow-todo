@@ -29,3 +29,12 @@
 ├── index.html      # Main structure
 ├── styles.css      # Custom styling & animations
 ├── app.js          # Main logic & LocalStorage handling
+
+##🧠 What I Learned
+JavaScript ke localStorage API ko use karke data ko save aur retrieve karna.
+
+Event Delegation ka istemal karke dynamic elements (list items) ko handle karna.
+
+UI aur State ko sync mein rakhna (Counter logic).
+
+Developed with ❤️ by [Hassan Muhayyudin]
